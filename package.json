@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/peter-lerch/shipping-service/issues"
   },
-  "homepage": "https://github.com/peter-lerch/shipping-service#readme"
+  "homepage": "https://github.com/peter-lerch/shipping-service#readme",
+  "devDependencies": {
+    "sinon": "^7.4.2"
+  }
 }
